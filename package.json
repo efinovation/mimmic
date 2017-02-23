@@ -1,0 +1,15 @@
+{
+  "name": "mirrorjs",
+  "version": "1.0.0",
+  "description": "an http server that responds with canned messages",
+  "main": "mimmic.js",
+  "scripts": {
+    "start": "node mimmic.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dustin Faulk",
+  "license": "ISC",
+  "devDependencies": {
+
+  }
+}
